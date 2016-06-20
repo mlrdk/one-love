@@ -8,7 +8,7 @@ One Love is WEB frontend which binds [Ansible](https://www.ansible.com/) roles w
 The idea is to create software which is able to manage multiple hosting providers which all have multiple hosts on them. You can put hosts into groups and apply roles based on those groups, for easier management of large number of machines.
 
 ### Contributing
-For developers, there's [quick start](doc/quick-start.md)
+For developers wanting to contribute, there's [contributors page](doc/contributing.md)
 
 ### Use Cases 
 For use cases, there's [use cases page](use_cases/README.md)
